@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # 显示系统更新菜单
 echo "系统更新菜单："
 echo "1. 更新 Ubuntu/Debian 系统"
