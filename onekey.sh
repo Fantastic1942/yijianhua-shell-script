@@ -4,7 +4,6 @@
 # FantaHope
 # --
 
-# 获取系统信息
 echo "系统信息："
 echo "内核名称：" $(uname -s)
 echo "主机名：" $(uname -n)
